@@ -1,4 +1,4 @@
 # VisualizzazioneScientifica
 VisualizzazioneScientifica
-- Caricare Dataset, query Divise per Grafico
+Presentazione sulle Macchine
 - Presentazione versione .pptx .pdf
